@@ -21,7 +21,7 @@
 
 > # To-do
 
-* ***In the src/ run pip install -r requirements.txt***
+* ***In the project folder run pip install -r requirements.txt***
 * ***Launch the main.py in src/ folder***
 
 <br/>
