@@ -22,6 +22,7 @@
 > # To-do
 
 * ***In the project folder run pip install -r requirements.txt***
+* ***Set your api key in .env***
 * ***Launch the main.py in src/ folder***
 
 * ***You can customize the prompt in src/utils/prompt***
