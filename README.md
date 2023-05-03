@@ -1,7 +1,7 @@
 <h1 align="center">AI Selfbot For Discord</h1>
 
 <p align='center'>
-    <b>😇 AI SelfBot 😇</b>
+    <b>🤖 AI SelfBot 🤖</b>
 </p>
 
 ----
@@ -23,6 +23,8 @@
 
 * ***In the project folder run pip install -r requirements.txt***
 * ***Launch the main.py in src/ folder***
+
+* ***You can customize the prompt in src/utils/prompt***
 
 <br/>
 
